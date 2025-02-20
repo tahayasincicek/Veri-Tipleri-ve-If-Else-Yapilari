@@ -1,0 +1,14 @@
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\Determining The Day Name\Determining The Day Name\bin\Debug\net8.0\Determining The Day Name.exe
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\Determining The Day Name\Determining The Day Name\bin\Debug\net8.0\Determining The Day Name.deps.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\Determining The Day Name\Determining The Day Name\bin\Debug\net8.0\Determining The Day Name.runtimeconfig.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\Determining The Day Name\Determining The Day Name\bin\Debug\net8.0\Determining The Day Name.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\Determining The Day Name\Determining The Day Name\bin\Debug\net8.0\Determining The Day Name.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\Determining The Day Name\Determining The Day Name\obj\Debug\net8.0\Determining The Day Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\Determining The Day Name\Determining The Day Name\obj\Debug\net8.0\Determining The Day Name.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\Determining The Day Name\Determining The Day Name\obj\Debug\net8.0\Determining The Day Name.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\Determining The Day Name\Determining The Day Name\obj\Debug\net8.0\Determining The Day Name.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\Determining The Day Name\Determining The Day Name\obj\Debug\net8.0\Determining The Day Name.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\Determining The Day Name\Determining The Day Name\obj\Debug\net8.0\refint\Determining The Day Name.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\Determining The Day Name\Determining The Day Name\obj\Debug\net8.0\Determining The Day Name.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\Determining The Day Name\Determining The Day Name\obj\Debug\net8.0\Determining The Day Name.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\Determining The Day Name\Determining The Day Name\obj\Debug\net8.0\ref\Determining The Day Name.dll
