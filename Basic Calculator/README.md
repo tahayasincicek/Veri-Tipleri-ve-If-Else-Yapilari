@@ -1,9 +1,9 @@
-#Basit Hesap Makinesi Uygulaması - README
+# Basit Hesap Makinesi Uygulaması - README
 
-#Açıklama
+## Açıklama
 Bu C# konsol uygulaması, kullanıcıdan iki sayı alarak temel matematiksel işlemleri gerçekleştiren basit bir hesap makinesidir. Kullanıcı, toplama, çıkarma, çarpma veya bölme işlemlerinden birini seçerek işlem sonucunu ekranda görebilir.
 
-#Kullanım
+## Kullanım
 Program çalıştırıldığında, kullanıcıdan yapmak istediği işlemi seçmesi istenir:
 
 1: Toplama
