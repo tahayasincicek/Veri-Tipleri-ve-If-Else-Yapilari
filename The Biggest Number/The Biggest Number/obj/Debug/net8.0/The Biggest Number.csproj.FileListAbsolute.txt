@@ -1,0 +1,14 @@
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\The Biggest Number\The Biggest Number\bin\Debug\net8.0\The Biggest Number.exe
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\The Biggest Number\The Biggest Number\bin\Debug\net8.0\The Biggest Number.deps.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\The Biggest Number\The Biggest Number\bin\Debug\net8.0\The Biggest Number.runtimeconfig.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\The Biggest Number\The Biggest Number\bin\Debug\net8.0\The Biggest Number.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\The Biggest Number\The Biggest Number\bin\Debug\net8.0\The Biggest Number.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\The Biggest Number\The Biggest Number\obj\Debug\net8.0\The Biggest Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\The Biggest Number\The Biggest Number\obj\Debug\net8.0\The Biggest Number.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\The Biggest Number\The Biggest Number\obj\Debug\net8.0\The Biggest Number.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\The Biggest Number\The Biggest Number\obj\Debug\net8.0\The Biggest Number.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\The Biggest Number\The Biggest Number\obj\Debug\net8.0\The Biggest Number.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\The Biggest Number\The Biggest Number\obj\Debug\net8.0\refint\The Biggest Number.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\The Biggest Number\The Biggest Number\obj\Debug\net8.0\The Biggest Number.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\The Biggest Number\The Biggest Number\obj\Debug\net8.0\The Biggest Number.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ödev1\The Biggest Number\The Biggest Number\obj\Debug\net8.0\ref\The Biggest Number.dll
