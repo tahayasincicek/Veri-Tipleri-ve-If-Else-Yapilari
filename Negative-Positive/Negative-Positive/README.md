@@ -9,7 +9,7 @@ Negatifse: "Number is negative" mesajını gösterir.
 Sıfırsa: "Number is zero" mesajını gösterir.
 Sonuç görüntülendikten sonra kullanıcıdan enter tuşuna basmasını bekler.
 
-##🛠 Kullanım
+## 🛠 Kullanım
 Programı çalıştırın.
 "Enter a number please" mesajı görüntülendiğinde bir sayı girin.
 Sayının pozitif, negatif veya sıfır olup olmadığı ekrana yazdırılacaktır.
